@@ -1,2 +1,2 @@
 # FNaAC
-Yet another **F**ull **N**ano**A**OD **A**nalysis with **C**offea framework
+Yet another **F**ull **Na**noAOD **A**nalysis with **C**offea framework
